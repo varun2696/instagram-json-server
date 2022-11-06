@@ -1,0 +1,30 @@
+{
+  "posts": [
+
+    {
+      "id": "2",
+      "caption": "my photo",
+      "image_url": "https://i.ibb.co/HtqJxh8/IMG-20220330-WA0011.jpg"
+    },
+    {
+      "id": "3",
+      "caption": "photo",
+      "image_url": "https://i.ibb.co/KsCBTnN/IMG-20220330-WA0006.jpg"
+    },
+    {
+      "id": "4",
+      "caption": "moto",
+      "image_url": "https://i.ibb.co/0Bxr3Gc/m-b.jpg"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
